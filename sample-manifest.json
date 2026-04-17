@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d3c4e829-b8c4-4178-8cbe-e559b44226c9",
+  "export_job_id": "6b412430-3dcc-4506-9199-d70bf4dd9ecd",
   "id_short": 197866,
-  "published_at": "2026-04-11T19:21:52Z",
+  "published_at": "2026-04-17T19:10:47Z",
   "repo_name": "all-restaurants-in-columbia-south-carolina-us-sample-197866",
   "sample_asset_name": "beamstation_197866_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/197866/beamstation_197866_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_records": 90,
-  "sample_sha256": "f6b6d6e946c3cd12f4aef0b45514c8f318cf1213c162178c7d88cb25a942976d",
-  "sample_size_bytes": 325405,
-  "total_records": 903
+  "sample_sha256": "255d4a47d54172d040c98ae644c4a5720d5abd1e528e9add661861b2cfa392be",
+  "sample_size_bytes": 325918,
+  "total_records": 901
 }
