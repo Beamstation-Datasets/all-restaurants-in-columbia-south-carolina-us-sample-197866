@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Columbia in the Southeast with a population of over 136k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Columbia, South Carolina, US",
-  "export_job_id": "d3c4e829-b8c4-4178-8cbe-e559b44226c9",
+  "export_job_id": "6b412430-3dcc-4506-9199-d70bf4dd9ecd",
   "github_org": "Beamstation-Datasets",
   "id_short": 197866,
   "location_name": "Columbia",
   "location_type": "city",
   "repo_name": "all-restaurants-in-columbia-south-carolina-us-sample-197866",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/197866/beamstation_197866_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_pct": 9.97,
+  "sample_pct": 9.99,
   "sample_records": 90,
-  "sample_sha256": "f6b6d6e946c3cd12f4aef0b45514c8f318cf1213c162178c7d88cb25a942976d",
-  "sample_size_bytes": 325405,
-  "total_records": 903,
-  "updated_at": "2026-04-07T10:29:46.775471+00:00"
+  "sample_sha256": "255d4a47d54172d040c98ae644c4a5720d5abd1e528e9add661861b2cfa392be",
+  "sample_size_bytes": 325918,
+  "total_records": 901,
+  "updated_at": "2026-04-14T10:19:11.171219+00:00"
 }
