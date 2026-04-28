@@ -1,6 +1,6 @@
 # All Restaurants in Columbia, South Carolina, US
 
-> Free BeamStation sample export with 93 rows and masked direct-contact fields.
+> Free BeamStation sample export with 100 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `197866` |
 | Location | Columbia |
 | Category | Restaurants |
-| Full dataset size | 936 records |
-| Free sample size | 93 records (9.94%) |
-| Last export | 2026-04-21T10:31:33.320707+00:00 |
+| Full dataset size | 1,001 records |
+| Free sample size | 100 records (9.99%) |
+| Last export | 2026-04-28T10:54:20.386759+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-columbia-south-carolina-us-sample-197866/releases/download/sample-latest/beamstation_197866_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
